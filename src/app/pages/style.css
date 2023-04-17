@@ -28,7 +28,7 @@ nav {
 .link {
 	margin: 10px 10px;
 	display: flex;
-    width: 100%;
+	width: 100%;
 	align-items: center;
 	gap: 40px;
 	justify-content: center;
@@ -72,6 +72,6 @@ footer {
 
 img {
 	max-width: 20%;
- 	height: auto;
-  	margin: -19px -350px -19px -19px;
+	height: auto;
+	margin: -19px -350px -19px -19px;
 }
